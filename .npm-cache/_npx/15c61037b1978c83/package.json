@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "chrome-devtools-mcp": "^0.11.0"
+  },
+  "_npx": {
+    "packages": [
+      "chrome-devtools-mcp@latest"
+    ]
+  }
+}
